@@ -1,0 +1,383 @@
+2025-06-01T15:17:32 exception: Failed to open "/home/lzg/.config/mpd/mpdstate": No such file or directory
+2025-06-01T15:17:32 exception: inotify_add_watch("/home/lzg/音乐/Music") failed: No such file or directory
+2025-06-01T15:17:32 config: option "buffer_time" on line 219 was not recognized
+2025-06-01T15:17:32 exception: Failed to access /home/lzg/音乐/Music: No such file or directory
+2025-06-01T15:18:35 update: added /周深 - 此生惟你.flac
+2025-06-01T15:18:35 update: added /吕珊 - 只记今朝笑(粤).mp3
+2025-06-01T15:18:35 update: added /ウルフルズ - バンザイ~好きでよかった~.mp3
+2025-06-01T15:18:35 update: added /奇然 沈谧仁 - 琵琶行.mp3
+2025-06-01T15:18:35 update: added /周华健 - 侠客行.flac
+2025-06-01T15:18:35 update: added /Nirvana - Smells Like Teen Spirit.mp3
+2025-06-01T15:18:35 update: added /吴佳明 - 逍遥游.mp3
+2025-06-01T15:18:35 update: added /刘欢 - 菩萨蛮(男声珍藏版).mp3
+2025-06-01T15:18:35 update: added /Aki阿杰 - 一世妆.mp3
+2025-06-01T15:18:35 update: added /大黒摩季 - あなただけ見つめてる.mp3
+2025-06-01T15:18:35 update: added /买辣椒也用券 - 起风了.flac
+2025-06-01T15:18:35 update: added /司南 - 烟雨行舟（原唱：伦桑）.flac
+2025-06-01T15:18:35 update: added /Beyond - 光辉岁月.mp3
+2025-06-01T15:18:35 update: added /中島みゆき - 空と君のあいだに.mp3
+2025-06-01T15:18:35 update: added /Beyond - 谁伴我闯荡.mp3
+2025-06-01T15:18:35 update: added /叶炫清 - 九张机.mp3
+2025-06-01T15:18:35 update: added /X JAPAN - 红.mp3
+2025-06-01T15:18:35 update: added /中島みゆき - 狼になりたい.mp3
+2025-06-01T15:18:35 update: added /刘珂矣 - 半壶纱.flac
+2025-06-01T15:18:35 update: added /周华健 - 后记：大春.flac
+2025-06-01T15:18:35 update: added /刘珂矣 - 缥缃醉.mp3
+2025-06-01T15:18:35 update: added /剑三踏莎行.mp3
+2025-06-01T15:18:35 update: added /Yoka - 破烂小仙.mp3
+2025-06-01T15:18:35 update: added /刘珂矣 - 花笺.mp3
+2025-06-01T15:18:35 update: added /叶振棠,叶丽仪 - 笑傲江湖.mp3
+2025-06-01T15:18:35 update: added /Ichiro Sakai - Irregular Verbs 89.mp3
+2025-06-01T15:18:35 update: added /中森明菜 - 難破船.mp3
+2025-06-01T15:18:35 update: added /周深 - 大鱼.flac
+2025-06-01T15:18:35 update: added /友坂理惠 - エスカレーション.mp3
+2025-06-01T15:18:35 mpg123: mpg123_getformat() failed: Message: I am done with this track.
+2025-06-01T15:18:35 mpg123: mpg123_getformat() failed: Message: I am done with this track.
+2025-06-01T15:18:35 ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+2025-06-01T15:18:35 ffmpeg/mp3: Failed to find two consecutive MPEG audio frames.
+2025-06-01T15:18:35 update: added /刘德华 - 暗里着迷 (粤).mp3
+2025-06-01T15:18:35 update: added /Wintear - 张信哲-白月光(PianoVer)（Wintear remix）.flac
+2025-06-01T15:18:35 update: added /Winky诗 - 菁华浮梦.mp3
+2025-06-01T15:18:35 update: added /CHAGE and ASKA - YAH YAH YAH.mp3
+2025-06-01T15:18:35 update: added /周华健 - 一年三百六十醉.flac
+2025-06-01T15:18:35 update: added /任月丽 - 原点.mp3
+2025-06-01T15:18:35 update: added /吴奇隆 - 转弯.mp3
+2025-06-01T15:18:35 update: added /天時 - 临水照花.mp3
+2025-06-01T15:18:35 update: added /BAAD (バード) - 君が好きだと叫びたい (好想大声说喜欢你) (《灌篮高手》TV动画第1-61集片头曲).flac
+2025-06-01T15:18:35 update: added /Beyond - 午夜怨曲.mp3
+2025-06-01T15:18:35 update: added /HITA,小曲儿 - 丹青客.mp3
+2025-06-01T15:18:35 update: added /Days - 春来发几枝.mp3
+2025-06-01T15:18:35 update: added /只有影子 兰芽yaya - 惊蛰·归云.mp3
+2025-06-01T15:18:35 update: added /久保田利伸 - LA・LA・LA Love Song.mp3
+2025-06-01T15:18:35 update: added /处处吻 - 杨千嬅.mp3
+2025-06-01T15:18:35 update: added /亦伊 - 走江南.mp3
+2025-06-01T15:18:35 update: added /司南 - 冬眠.flac
+2025-06-01T15:18:35 update: added /一别经年.mp3
+2025-06-01T15:18:35 update: added /KinKi Kids - 爱されるより 爱したい.mp3
+2025-06-01T15:18:35 update: added /Kiroro - 長い間.mp3
+2025-06-01T15:18:35 update: added /HITA - 犹有未归人.mp3
+2025-06-01T15:18:35 update: added /刘珂矣 - 忘尘谷.mp3
+2025-06-01T15:18:35 update: added /周华健 - 笑英雄.flac
+2025-06-01T15:18:35 update: added /吴雨霏 - 生生世世爱.flac
+2025-06-01T15:18:35 update: added /司南 - 夭娘.flac
+2025-06-01T15:18:35 update: added /aiko - 花火.mp3
+2025-06-01T15:18:35 update: added /Oxford University Press - Talking About The Past- More Useful Vocabulary.mp3
+2025-06-01T15:18:35 update: added /夏艺韩 - 游山恋.flac
+2025-06-01T15:18:35 update: added /Beyond - 冷雨夜.mp3
+2025-06-01T15:18:35 update: added /吴奇隆,严艺丹 - 流恋(电视剧《新白发魔女传》片尾曲).mp3
+2025-06-01T15:18:35 update: added /W.K. - 天下缘梦.mp3
+2025-06-01T15:18:35 update: added /刘惜君 - 直到那一天.flac
+2025-06-01T15:18:35 update: added /Winky诗 - 旧梦.mp3
+2025-06-01T15:18:35 update: added /卢小旭 - 飞仙奇缘.mp3
+2025-06-01T15:18:35 update: added /Ae - Street Market (Chun-Li Stage).mp3
+2025-06-01T15:18:35 update: added /Mr.Children - 名もなき詩.flac
+2025-06-01T15:18:35 update: added /周深 - 缘起.flac
+2025-06-01T15:18:35 update: added /双笙 - 神武醉相思（Cover：优我女团）.mp3
+2025-06-01T15:18:35 update: added /あなただけ見つめてる - 大黒摩季.flac
+2025-06-01T15:18:35 update: added /周华健 - 泼墨.flac
+2025-06-01T15:18:35 update: added /刘珂矣 - 芙蓉雨.mp3
+2025-06-01T15:18:35 update: added /HITA 玄觞 - 眉如远山.mp3
+2025-06-01T15:18:35 update: added /不才 - 参商.mp3
+2025-06-01T15:18:35 update: added /Beyond - 海阔天空.mp3
+2025-06-01T15:18:35 update: added /剑三踏莎行-默色.mp3
+2025-06-01T15:18:35 update: added /By2 - 曾经的约定.mp3
+2025-06-01T15:18:35 update: added /一生所爱.mp3
+2025-06-01T15:18:35 update: added /ZARD - 揺れる想い.flac
+2025-06-01T15:18:35 update: added /Kiroro - 長い間.flac
+2025-06-01T15:18:35 update: added /周华健 - 我上大名府.flac
+2025-06-01T15:18:35 update: added /CHAGE and ASKA - SAY YES.flac
+2025-06-01T15:18:35 update: added /周华健 - 刀剑如梦.flac
+2025-06-01T15:18:35 update: added /IRiS七叶,卡修Rui - 【IRiS七叶&卡修Rui】知否知否（Cover：胡夏）.mp3
+2025-06-01T15:18:35 update: added /【填词】古风欢脱.mp3
+2025-06-01T15:18:35 update: added /唐宋,羽先生_89 - 踏山河（戏腔版）.mp3
+2025-06-01T15:18:35 update: added /周深 - 缘起 (前世今生版).flac
+2025-06-01T15:18:35 update: added /KinKi Kids - 全部だきしめて.mp3
+2025-06-01T15:18:35 update: added /信乐团 - 海阔天空.mp3
+2025-06-01T15:18:35 update: added /Beyond - 长城.mp3
+2025-06-01T15:18:35 update: added /Braska - 赤璃琴殇.mp3
+2025-06-01T15:18:35 update: added /サザンオールスターズ - 爱の言霊 〜Spiritual Message.mp3
+2025-06-01T15:18:35 update: added /HITA,玄殇 - 眉如远山.mp3
+2025-06-01T15:18:35 update: added /ウルフルズ - ガッツだぜ!!.mp3
+2025-06-01T15:18:35 update: added /严艺丹 - 唐凰一梦.mp3
+2025-06-01T15:18:35 update: added /Aki阿杰 清弄 - 叙世 With.清弄.mp3
+2025-06-01T15:18:35 update: added /刘德华 - 仍唱我的歌.mp3
+2025-06-01T15:18:35 update: added /国风堂,司南 - 吹灭小山河.mp3
+2025-06-01T15:18:58 update: added /小魂 - 关山酒.flac
+2025-06-01T15:18:58 update: added /小爱的妈 - 画壁 - 管弦编曲版.mp3
+2025-06-01T15:18:58 update: added /安室奈美恵 - CAN YOU CELEBRATE？.flac
+2025-06-01T15:18:58 update: added /张国荣 - 拒绝再玩.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 风再起时.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 最爱.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 今生今世.mp3
+2025-06-01T15:18:58 update: added /安室奈美恵 - RESPECT the POWER OF LOVE.mp3
+2025-06-01T15:18:58 update: added /安室奈美恵 - SWEET 19 BLUES (New Vocal).mp3
+2025-06-01T15:18:58 update: added /张靓颖 - 无字碑.mp3
+2025-06-01T15:18:58 update: added /工藤静香 - 嵐の素顔.mp3
+2025-06-01T15:18:58 update: added /孟可,吕亮 - 风.mp3
+2025-06-01T15:18:58 update: added /容祖儿 - 小小.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 暴风一族.mp3
+2025-06-01T15:18:58 update: added /张国荣,辛晓琪 - 眉来眼去.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 热辣辣.mp3
+2025-06-01T15:18:58 update: added /张杰 - 浩瀚 (伴奏).mp3
+2025-06-01T15:18:58 update: added /妖言君 - 戏言.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 够了.mp3
+2025-06-01T15:18:58 update: added /孙子涵 - 唐人.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 红颜白发.mp3
+2025-06-01T15:18:58 update: added /张馨予 - 问世间.mp3
+2025-06-01T15:18:58 update: added /张杰 - 浩瀚.mp3
+2025-06-01T15:18:58 update: added /张国荣,辛晓琪 - 深情相拥.mp3
+2025-06-01T15:18:58 update: added /小旭音乐 - 神武笑春风（神武）.mp3
+2025-06-01T15:18:58 update: added /张志鹏 - 半生雪.flac
+2025-06-01T15:18:58 update: added /成龙 - 壮志在我胸.flac
+2025-06-01T15:18:58 update: added /张芸京 - 偏爱.flac
+2025-06-01T15:18:58 update: added /张学友 - 不老的传说.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 追.mp3
+2025-06-01T15:18:58 update: added /小诗 - 菁华浮梦.mp3
+2025-06-01T15:18:58 update: added /安室奈美恵 - NEVER END.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 一辈子失去了你.mp3
+2025-06-01T15:18:58 update: added /徐小凤 - 漫漫前路.flac
+2025-06-01T15:18:58 update: added /姚贝娜 - 问红尘.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 倩女幽魂.mp3
+2025-06-01T15:18:58 update: added /安九,HITA,叶里 - 礼仪之邦.mp3
+2025-06-01T15:18:58 update: added /张卫健 - 真英雄.mp3
+2025-06-01T15:18:58 update: added /小曲儿 - 谓我.flac
+2025-06-01T15:18:58 update: added /张国荣 - 无心睡眠.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 想你.mp3
+2025-06-01T15:18:58 update: added /徐佳莹 - 大雨将至.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 奔向未来日子.mp3
+2025-06-01T15:18:58 update: added /张碧晨,杨宗纬 - 凉凉 (Live).flac
+2025-06-01T15:18:58 update: added /张国荣 - 当爱已成往事.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 何去何从之阿飞正传.mp3
+2025-06-01T15:18:58 update: added /小爱的妈 - 兰若词.flac
+2025-06-01T15:18:58 update: added /张国荣 - Miss You Much.mp3
+2025-06-01T15:18:58 update: added /张国荣 - A Thousand Dreams Of You.mp3
+2025-06-01T15:18:58 update: added /安室奈美恵 - Stop the music.flac
+2025-06-01T15:18:58 mpg123: mpg123_getformat() failed: Message: I am done with this track.
+2025-06-01T15:18:58 mpg123: mpg123_getformat() failed: Message: I am done with this track.
+2025-06-01T15:18:58 ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+2025-06-01T15:18:58 ffmpeg/mp3: Failed to find two consecutive MPEG audio frames.
+2025-06-01T15:18:58 update: added /张靓颖 马臻 - 我的梦 (Live).flac
+2025-06-01T15:18:58 update: added /张国荣 - 侧面.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 共同渡过.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 情难自控.mp3
+2025-06-01T15:18:58 update: added /安琥 - 天使的翅膀.mp3
+2025-06-01T15:18:58 update: added /小义学长 - 天下无狗.mp3
+2025-06-01T15:18:58 update: added /张晓棠 - 苏幕遮.mp3
+2025-06-01T15:18:58 update: added /小爱的妈 - 画壁-敦煌宣传曲.mp3
+2025-06-01T15:18:58 update: added /川子 - 郑钱花.flac
+2025-06-01T15:18:58 update: added /平井堅 - 楽园.mp3
+2025-06-01T15:18:58 update: added /安室奈美恵 - SWEET 19 BLUES.flac
+2025-06-01T15:18:58 update: added /张国荣 - 贴身.mp3
+2025-06-01T15:18:58 update: added /张雨生 - 口是心非.mp3
+2025-06-01T15:18:58 update: added /小石头和孩子们 - 奢香夫人（长征版）.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 夜半歌声.mp3
+2025-06-01T15:18:58 update: added /张学友 - 人间道(Live).mp3
+2025-06-01T15:18:58 update: added /小5 - 离殇.mp3
+2025-06-01T15:18:58 update: added /张国荣 - 无需要太多.mp3
+2025-06-01T15:18:58 update: added /小田和正 - ラブ・ストーリーは突然に.flac
+2025-06-01T15:24:56 player: played "一生所爱.mp3"
+2025-06-01T15:27:45 player: played "Yoka - 破烂小仙.mp3"
+2025-06-01T15:30:42 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2025-06-01T15:31:22 player: played "安室奈美恵 - Stop the music.flac"
+2025-06-01T15:32:34 player: played "安室奈美恵 - SWEET 19 BLUES (New Vocal).mp3"
+2025-06-01T15:32:36 mixer: Failed to set mixer for "My Pulse Output": disconnected
+2025-06-01T15:32:36 exception: Failed to set mixer for "My Pulse Output"; disconnected
+2025-06-01T15:33:06 player: played "安室奈美恵 - SWEET 19 BLUES (New Vocal).mp3"
+2025-06-01T15:33:09 mixer: Failed to set mixer for "My Pulse Output": disconnected
+2025-06-01T15:33:09 exception: Failed to set mixer for "My Pulse Output"; disconnected
+2025-06-01T15:37:20 player: played "Nirvana - Smells Like Teen Spirit.mp3"
+2025-06-01T15:39:08 player: played "Ae - Street Market (Chun-Li Stage).mp3"
+2025-06-01T15:44:45 player: played "安室奈美恵 - SWEET 19 BLUES.flac"
+2025-06-01T18:47:04 exception: Failed to decode "/home/lzg/音乐/Music/安室奈美恵 - SWEET 19 BLUES.flac"; Failed to open "/home/lzg/音乐/Music/安室奈美恵 - SWEET 19 BLUES.flac": No such file or directory
+2025-06-01T18:47:04 player: played "安室奈美恵 - SWEET 19 BLUES.flac"
+2025-06-01T18:47:04 exception: Failed to decode "/home/lzg/音乐/Music/久保田利伸 - LA・LA・LA Love Song.mp3"; Failed to open "/home/lzg/音乐/Music/久保田利伸 - LA・LA・LA Love Song.mp3": No such file or directory
+2025-06-01T18:47:04 player: played "久保田利伸 - LA・LA・LA Love Song.mp3"
+2025-06-01T18:47:04 exception: inotify_add_watch("/home/lzg/音乐/Music") failed: No such file or directory
+2025-06-01T18:47:04 config: option "buffer_time" on line 219 was not recognized
+2025-06-01T18:47:04 exception: Failed to open "/home/lzg/音乐/Music/安室奈美恵 - SWEET 19 BLUES.flac": No such file or directory
+2025-06-01T18:48:36 update: added /胡伟立 - 温馨时刻.flac
+2025-06-01T18:48:36 update: added /胡伟立 - 情意绵绵.mp3
+2025-06-01T18:48:36 update: added /胡伟立 - 母与子.flac
+2025-06-01T18:48:36 update: added /胡伟立 - 赤裸醉龙街市受辱.mp3
+2025-06-01T18:48:36 update: added /胡伟立 - 笑傲江湖曲(琴箫合奏).mp3
+2025-06-01T18:48:36 update: added /胡伟立,黄霑 - 少年十五二十时.mp3
+2025-06-01T18:48:36 update: added /胡伟立 - 轻快.mp3
+2025-06-01T18:48:36 update: added /胡伟立 - 丽春院.mp3
+2025-06-01T18:48:36 update: added /胡伟立 - 青天.mp3
+2025-06-01T18:48:36 update: added /胡伟立 - 市集.mp3
+2025-06-01T18:48:36 update: added /胡伟立 - 琴箫合奏曲.mp3
+2025-06-01T18:48:36 update: added /胡伟立 - 嬉戏.mp3
+2025-06-01T18:48:36 update: added /彭沛绮-谁不知我痴.flac
+2025-06-01T18:48:36 update: removing 【填词】古风欢脱.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 共同渡过.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 最爱.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 奔向未来日子.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 情难自控.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 想你.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 无需要太多.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 热辣辣.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 无心睡眠.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 暴风一族.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 拒绝再玩.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 侧面.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - Miss You Much.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 贴身.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 够了.mp3
+2025-06-01T18:48:36 update: removing Beyond - 冷雨夜.mp3
+2025-06-01T18:48:36 update: removing 小旭音乐 - 神武笑春风（神武）.mp3
+2025-06-01T18:48:36 update: removing 容祖儿 - 小小.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 何去何从之阿飞正传.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 红颜白发.mp3
+2025-06-01T18:48:36 update: removing 张国荣,辛晓琪 - 眉来眼去.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 追.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 一辈子失去了你.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 当爱已成往事.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 今生今世.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 夜半歌声.mp3
+2025-06-01T18:48:36 update: removing 张国荣,辛晓琪 - 深情相拥.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - A Thousand Dreams Of You.mp3
+2025-06-01T18:48:36 update: removing 安九,HITA,叶里 - 礼仪之邦.mp3
+2025-06-01T18:48:36 update: removing 徐佳莹 - 大雨将至.mp3
+2025-06-01T18:48:36 update: removing 刘惜君 - 直到那一天.flac
+2025-06-01T18:48:36 update: removing 小石头和孩子们 - 奢香夫人（长征版）.mp3
+2025-06-01T18:48:36 update: removing 司南 - 夭娘.flac
+2025-06-01T18:48:36 update: removing 安琥 - 天使的翅膀.mp3
+2025-06-01T18:48:36 update: removing 周深 - 大鱼.flac
+2025-06-01T18:48:36 update: removing 小5 - 离殇.mp3
+2025-06-01T18:48:36 update: removing 孙子涵 - 唐人.mp3
+2025-06-01T18:48:36 update: removing BAAD (バード) - 君が好きだと叫びたい (好想大声说喜欢你) (《灌篮高手》TV动画第1-61集片头曲).flac
+2025-06-01T18:48:36 update: removing Mr.Children - 名もなき詩.flac
+2025-06-01T18:48:36 update: removing 司南 - 烟雨行舟（原唱：伦桑）.flac
+2025-06-01T18:48:36 update: removing 天時 - 临水照花.mp3
+2025-06-01T18:48:36 update: removing 张雨生 - 口是心非.mp3
+2025-06-01T18:48:36 update: removing Aki阿杰 清弄 - 叙世 With.清弄.mp3
+2025-06-01T18:48:36 update: removing 刘珂矣 - 缥缃醉.mp3
+2025-06-01T18:48:36 update: removing 刘珂矣 - 芙蓉雨.mp3
+2025-06-01T18:48:36 update: removing 刘珂矣 - 忘尘谷.mp3
+2025-06-01T18:48:36 update: removing 刘珂矣 - 半壶纱.flac
+2025-06-01T18:48:36 update: removing 剑三踏莎行.mp3
+2025-06-01T18:48:36 update: removing 剑三踏莎行-默色.mp3
+2025-06-01T18:48:36 update: removing 司南 - 冬眠.flac
+2025-06-01T18:48:36 update: removing 小魂 - 关山酒.flac
+2025-06-01T18:48:36 update: removing 小爱的妈 - 兰若词.flac
+2025-06-01T18:48:36 update: removing 小爱的妈 - 画壁 - 管弦编曲版.mp3
+2025-06-01T18:48:36 update: removing 小爱的妈 - 画壁-敦煌宣传曲.mp3
+2025-06-01T18:48:36 update: removing 周深 - 此生惟你.flac
+2025-06-01T18:48:36 update: removing 吴雨霏 - 生生世世爱.flac
+2025-06-01T18:48:36 update: removing 叶炫清 - 九张机.mp3
+2025-06-01T18:48:36 update: removing HITA,小曲儿 - 丹青客.mp3
+2025-06-01T18:48:36 update: removing 小义学长 - 天下无狗.mp3
+2025-06-01T18:48:36 update: removing 吕珊 - 只记今朝笑(粤).mp3
+2025-06-01T18:48:36 update: removing 张学友 - 不老的传说.mp3
+2025-06-01T18:48:36 update: removing IRiS七叶,卡修Rui - 【IRiS七叶&卡修Rui】知否知否（Cover：胡夏）.mp3
+2025-06-01T18:48:36 update: removing Days - 春来发几枝.mp3
+2025-06-01T18:48:36 update: removing 大黒摩季 - あなただけ見つめてる.mp3
+2025-06-01T18:48:36 update: removing あなただけ見つめてる - 大黒摩季.flac
+2025-06-01T18:48:36 update: removing Kiroro - 長い間.flac
+2025-06-01T18:48:36 update: removing 中島みゆき - 狼になりたい.mp3
+2025-06-01T18:48:36 update: removing 中島みゆき - 空と君のあいだに.mp3
+2025-06-01T18:48:36 update: removing ZARD - 揺れる想い.flac
+2025-06-01T18:48:36 update: removing X JAPAN - 红.mp3
+2025-06-01T18:48:36 update: removing 刘德华 - 暗里着迷 (粤).mp3
+2025-06-01T18:48:36 update: removing KinKi Kids - 全部だきしめて.mp3
+2025-06-01T18:48:36 update: removing 久保田利伸 - LA・LA・LA Love Song.mp3
+2025-06-01T18:48:36 update: removing 安室奈美恵 - SWEET 19 BLUES.flac
+2025-06-01T18:48:36 update: removing Ae - Street Market (Chun-Li Stage).mp3
+2025-06-01T18:48:36 update: removing Nirvana - Smells Like Teen Spirit.mp3
+2025-06-01T18:48:36 update: removing 处处吻 - 杨千嬅.mp3
+2025-06-01T18:48:36 update: removing Ichiro Sakai - Irregular Verbs 89.mp3
+2025-06-01T18:48:36 update: removing 友坂理惠 - エスカレーション.mp3
+2025-06-01T18:48:36 update: removing Beyond - 谁伴我闯荡.mp3
+2025-06-01T18:48:36 update: removing Kiroro - 長い間.mp3
+2025-06-01T18:48:36 update: removing Oxford University Press - Talking About The Past- More Useful Vocabulary.mp3
+2025-06-01T18:48:36 update: removing 安室奈美恵 - RESPECT the POWER OF LOVE.mp3
+2025-06-01T18:48:36 update: removing CHAGE and ASKA - YAH YAH YAH.mp3
+2025-06-01T18:48:36 update: removing CHAGE and ASKA - SAY YES.flac
+2025-06-01T18:48:36 update: removing Beyond - 午夜怨曲.mp3
+2025-06-01T18:48:36 update: removing ウルフルズ - バンザイ~好きでよかった~.mp3
+2025-06-01T18:48:36 update: removing ウルフルズ - ガッツだぜ!!.mp3
+2025-06-01T18:48:36 update: removing 安室奈美恵 - NEVER END.mp3
+2025-06-01T18:48:36 update: removing 安室奈美恵 - SWEET 19 BLUES (New Vocal).mp3
+2025-06-01T18:48:36 update: removing aiko - 花火.mp3
+2025-06-01T18:48:36 update: removing 吴奇隆 - 转弯.mp3
+2025-06-01T18:48:36 update: removing 安室奈美恵 - CAN YOU CELEBRATE？.flac
+2025-06-01T18:48:36 update: removing 安室奈美恵 - Stop the music.flac
+2025-06-01T18:48:36 update: removing Yoka - 破烂小仙.mp3
+2025-06-01T18:48:36 update: removing 一生所爱.mp3
+2025-06-01T18:48:36 update: removing 一别经年.mp3
+2025-06-01T18:48:36 update: removing 奇然 沈谧仁 - 琵琶行.mp3
+2025-06-01T18:48:36 update: removing 卢小旭 - 飞仙奇缘.mp3
+2025-06-01T18:48:36 update: removing 工藤静香 - 嵐の素顔.mp3
+2025-06-01T18:48:36 update: removing 中森明菜 - 難破船.mp3
+2025-06-01T18:48:36 update: removing 姚贝娜 - 问红尘.mp3
+2025-06-01T18:48:36 update: removing Beyond - 光辉岁月.mp3
+2025-06-01T18:48:36 update: removing 张志鹏 - 半生雪.flac
+2025-06-01T18:48:36 update: removing 吴佳明 - 逍遥游.mp3
+2025-06-01T18:48:36 update: removing 唐宋,羽先生_89 - 踏山河（戏腔版）.mp3
+2025-06-01T18:48:36 update: removing 张卫健 - 真英雄.mp3
+2025-06-01T18:48:36 update: removing 买辣椒也用券 - 起风了.flac
+2025-06-01T18:48:36 update: removing 亦伊 - 走江南.mp3
+2025-06-01T18:48:36 update: removing 张靓颖 马臻 - 我的梦 (Live).flac
+2025-06-01T18:48:36 update: removing 国风堂,司南 - 吹灭小山河.mp3
+2025-06-01T18:48:36 update: removing Winky诗 - 菁华浮梦.mp3
+2025-06-01T18:48:36 update: removing 小诗 - 菁华浮梦.mp3
+2025-06-01T18:48:36 update: removing 刘珂矣 - 花笺.mp3
+2025-06-01T18:48:36 update: removing 小田和正 - ラブ・ストーリーは突然に.flac
+2025-06-01T18:48:36 update: removing 周深 - 缘起 (前世今生版).flac
+2025-06-01T18:48:36 update: removing 周深 - 缘起.flac
+2025-06-01T18:48:36 update: removing Beyond - 长城.mp3
+2025-06-01T18:48:36 update: removing 叶振棠,叶丽仪 - 笑傲江湖.mp3
+2025-06-01T18:48:36 update: removing 张馨予 - 问世间.mp3
+2025-06-01T18:48:36 update: removing 张杰 - 浩瀚 (伴奏).mp3
+2025-06-01T18:48:36 update: removing 张杰 - 浩瀚.mp3
+2025-06-01T18:48:36 update: removing 双笙 - 神武醉相思（Cover：优我女团）.mp3
+2025-06-01T18:48:36 update: removing 张晓棠 - 苏幕遮.mp3
+2025-06-01T18:48:36 update: removing HITA 玄觞 - 眉如远山.mp3
+2025-06-01T18:48:36 update: removing HITA,玄殇 - 眉如远山.mp3
+2025-06-01T18:48:36 update: removing Wintear - 张信哲-白月光(PianoVer)（Wintear remix）.flac
+2025-06-01T18:48:36 update: removing 刘欢 - 菩萨蛮(男声珍藏版).mp3
+2025-06-01T18:48:36 update: removing 孟可,吕亮 - 风.mp3
+2025-06-01T18:48:36 update: removing 张芸京 - 偏爱.flac
+2025-06-01T18:48:36 update: removing サザンオールスターズ - 爱の言霊 〜Spiritual Message.mp3
+2025-06-01T18:48:36 update: removing KinKi Kids - 爱されるより 爱したい.mp3
+2025-06-01T18:48:36 update: removing Braska - 赤璃琴殇.mp3
+2025-06-01T18:48:36 update: removing HITA - 犹有未归人.mp3
+2025-06-01T18:48:36 update: removing 任月丽 - 原点.mp3
+2025-06-01T18:48:36 update: removing Winky诗 - 旧梦.mp3
+2025-06-01T18:48:36 update: removing W.K. - 天下缘梦.mp3
+2025-06-01T18:48:36 update: removing Aki阿杰 - 一世妆.mp3
+2025-06-01T18:48:36 update: removing 不才 - 参商.mp3
+2025-06-01T18:48:36 update: removing 夏艺韩 - 游山恋.flac
+2025-06-01T18:48:36 update: removing 信乐团 - 海阔天空.mp3
+2025-06-01T18:48:36 update: removing Beyond - 海阔天空.mp3
+2025-06-01T18:48:36 update: removing 周华健 - 后记：大春.flac
+2025-06-01T18:48:36 update: removing 周华健 - 侠客行.flac
+2025-06-01T18:48:36 update: removing 周华健 - 一年三百六十醉.flac
+2025-06-01T18:48:36 update: removing 周华健 - 笑英雄.flac
+2025-06-01T18:48:36 update: removing 周华健 - 我上大名府.flac
+2025-06-01T18:48:36 update: removing 周华健 - 泼墨.flac
+2025-06-01T18:48:36 update: removing 张学友 - 人间道(Live).mp3
+2025-06-01T18:48:36 update: removing 周华健 - 刀剑如梦.flac
+2025-06-01T18:48:36 update: removing 张碧晨,杨宗纬 - 凉凉 (Live).flac
+2025-06-01T18:48:36 update: removing 平井堅 - 楽园.mp3
+2025-06-01T18:48:36 update: removing By2 - 曾经的约定.mp3
+2025-06-01T18:48:36 update: removing 小曲儿 - 谓我.flac
+2025-06-01T18:48:36 update: removing 张靓颖 - 无字碑.mp3
+2025-06-01T18:48:36 update: removing 严艺丹 - 唐凰一梦.mp3
+2025-06-01T18:48:36 update: removing 吴奇隆,严艺丹 - 流恋(电视剧《新白发魔女传》片尾曲).mp3
+2025-06-01T18:48:36 update: removing 川子 - 郑钱花.flac
+2025-06-01T18:48:36 update: removing 刘德华 - 仍唱我的歌.mp3
+2025-06-01T18:48:36 update: removing 妖言君 - 戏言.mp3
+2025-06-01T18:48:36 update: removing 只有影子 兰芽yaya - 惊蛰·归云.mp3
+2025-06-01T18:48:36 update: removing 成龙 - 壮志在我胸.flac
+2025-06-01T18:48:36 update: removing 徐小凤 - 漫漫前路.flac
+2025-06-01T18:48:36 update: removing 张国荣 - 倩女幽魂.mp3
+2025-06-01T18:48:36 update: removing 张国荣 - 风再起时.mp3
+2025-06-01T18:49:35 output: Failed to play on "My Pulse Output" (pulse): disconnected
+2025-06-01T18:49:35 player: played "胡伟立 - 嬉戏.mp3"
+2025-06-01T18:49:45 config: option "buffer_time" on line 219 was not recognized
+2025-06-01T18:53:51 player: played "彭沛绮-谁不知我痴.flac"
+2025-06-01T18:55:14 player: played "胡伟立 - 温馨时刻.flac"
+2025-06-01T18:56:47 player: played "胡伟立 - 母与子.flac"
+2025-06-01T18:58:02 player: played "胡伟立 - 赤裸醉龙街市受辱.mp3"
+2025-06-01T18:58:58 player: played "胡伟立 - 丽春院.mp3"

@@ -1,0 +1,29 @@
+sw_volume: 100
+audio_device_state:1:my_fifo
+audio_device_state:1:My Pulse Output
+state: play
+current: 12
+time: 45.372
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:胡伟立 - 嬉戏.mp3
+1:胡伟立 - 青天.mp3
+2:胡伟立 - 情意绵绵.mp3
+3:胡伟立 - 市集.mp3
+4:胡伟立 - 轻快.mp3
+5:胡伟立,黄霑 - 少年十五二十时.mp3
+6:胡伟立 - 笑傲江湖曲(琴箫合奏).mp3
+7:胡伟立 - 琴箫合奏曲.mp3
+8:彭沛绮-谁不知我痴.flac
+9:胡伟立 - 温馨时刻.flac
+10:胡伟立 - 母与子.flac
+11:胡伟立 - 赤裸醉龙街市受辱.mp3
+12:胡伟立 - 丽春院.mp3
+playlist_end
