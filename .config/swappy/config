@@ -1,0 +1,4 @@
+[Default]
+save_dir=${XDG_SCREENSHOTS_DIR:-$HOME/图片/Screenshots}
+show_panel=true
+early_exit=true
