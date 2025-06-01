@@ -1,2 +1,2 @@
 #!/bin/sh
-mkdir -p ~/图片/screenshot && grim ~/图片/screenshot/%m-%d-%Y-%H%M%S.png
+grim - | swappy -f - && [[ $(wl-paste -l) == "image/png" ]] && notify-send "Screenshot copied to clipboard"

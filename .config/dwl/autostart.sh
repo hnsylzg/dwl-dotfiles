@@ -7,6 +7,7 @@ wl-clip-persist --clipboard regular --all-mime-type-regex '(?i)^(?!image/x-inksc
 wl-paste --watch cliphist store &
 wl-paste --watch pkill -RTMIN+9 waybar &
 nm-applet &
+swayidle -w timeout 300 'swaylock -f -c 000000 --show-failed-attempts --fade-in 0.2 --grace 2 --grace-no-mouse --effect-vignette 0.5:0.5 --effect-blur 7x5 --ignore-empty-password --screenshots --clock' timeout 600 'wlr-randr --output Virtual-1 --off' resume 'wlr-randr --output Virtual-1 --on' timeout 900 'systemctl suspend' &
 
 arr=("waybar &")
 
