@@ -32,7 +32,7 @@ if systemd-detect-virt -q; then
   export WLR_NO_HARDWARE_CURSORS=1
 fi
 
-export LIBGL_ALWAYS_SOFTWARE=true
+# export LIBGL_ALWAYS_SOFTWARE=true
 # Disable warnings by OpenCV
 export OPENCV_LOG_LEVEL=ERROR
 
